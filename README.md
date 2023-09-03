@@ -1,2 +1,2 @@
 # desafio_python_01
-Desafio de código python 01
+Implementação de um sitema de banco em python.
