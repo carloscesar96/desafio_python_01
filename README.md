@@ -1,2 +1,2 @@
 # desafio_python_01
-Implementação de um sitema de banco em python.
+Implementação de um sistema de banco em python.
